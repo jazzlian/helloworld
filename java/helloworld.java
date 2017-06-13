@@ -4,8 +4,16 @@ import java.lang.Exception;
 
 public final class  helloworld
 {
+    private final static String msg = new String("HelloWorld");
+
 	public static void main(String[] args) throws Exception {
 		
-		System.out.println("hello world");
+	    helloworld sample = new helloworld();
+        sample.printHello();
+
 	}
+
+    public void printHello() {
+        System.out.println(msg);
+    }
 }
