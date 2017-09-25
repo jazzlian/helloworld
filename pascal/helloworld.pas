@@ -1,5 +1,6 @@
 program Hello;
-var MyMessage: string;
+var 
+ MyMessage: string;
 
 begin
         MyMessage := 'hello world!';
