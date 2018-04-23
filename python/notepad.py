@@ -14,13 +14,21 @@ if __name__ == '__main__':
         usage()
     elif sys.argv[1] == '-v':
         try:
-            print(open("memo.txt").read())
+            f = open("memo.txt", "r")
+            print(f.read())
         except IOError:
             print("memo does not exists")
+        else:
+            f.close()
+            
     elif sys.argv[1] == '-a':
         word = input("Enter memo: ")
-        f = open("memo.txt", 'a')
-        f.write(time.ctime() + ': ' + word + '\n')
-        f.close()
+        try:
+            f = open("memo.txt", 'a')
+            f.write(time.ctime() + ': ' + word + '\n')
+        except IOError:
+            print("memo does not create")
+        finally :
+            f.close()
         
         print("Addddded")
