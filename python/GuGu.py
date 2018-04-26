@@ -1,4 +1,4 @@
-def GuGu(n):
+def gugu(n):
     result = []
     i = 1
     while i < 10:
@@ -8,4 +8,4 @@ def GuGu(n):
     return result
 
 if __name__ == '__main__':
-    print(GuGu(2))
+    print(gugu(2))

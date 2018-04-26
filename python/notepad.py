@@ -1,6 +1,7 @@
 import sys
 import time
 
+
 def usage():
     print("""
     Usage
