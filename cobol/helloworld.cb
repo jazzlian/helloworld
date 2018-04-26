@@ -1,7 +1,3 @@
-IDENTIFICATION DIVISION.
- PROGRAM-ID. Hello.
- ENVIRONMENT DIVISION.
- DATA DIVISION.
- PROCEDURE DIVISION.
-    Display 'Hello, World'.
+DisplayPrompt.
+    DISPLAY "I did it".
     STOP RUN.
