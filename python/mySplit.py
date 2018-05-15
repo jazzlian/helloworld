@@ -1,3 +1,5 @@
+import pickle
+
 if __name__ == '__main__':
 
     man = []
@@ -22,11 +24,14 @@ if __name__ == '__main__':
         print('The data file is missing! : ' + str(err))
 
     try:
-        with open('man_data.txt', 'w') as man_file:
-            print(man, file=man_file)
+        with open('man_data.txt', 'wb') as man_file:
+            pickle.dump(man, man_file)
 
-        with open('other_data.txt','w') as other_file:
-            print(other, file=other_file)
+        with open('other_data.txt','wb') as other_file:
+            pickle.dump(other, other_file)
 
     except IOError as err:
         print('File error : ' + str(err))
+
+    except pickle.PickleError as perr:
+        print('Pickle error: ' + str(perr))
