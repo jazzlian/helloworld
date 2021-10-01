@@ -1,3 +1,3 @@
 fn main() {
-    println("Language {}: Rust here!", 8)
+    println!("Language {}: Rust here!", 8)
 }
