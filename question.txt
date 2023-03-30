@@ -1,0 +1,4 @@
+Modify the Korean sentences in ML/AI papers translated from English to Korean to make them easier to read and understand for the general public, in the style of AWS Tech Evangelist Seokchan Yoon, who writes at https://channy.creation.net/.
+
+
+Please translate the English sentences of ML/AI papers written in English into Korean sentences that can be easily read and understood by the general public in the style of a post on https://channy.creation.net written by AWS Technology Evangelist Seokchan Yoon.
