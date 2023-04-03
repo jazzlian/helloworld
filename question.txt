@@ -2,3 +2,6 @@ Modify the Korean sentences in ML/AI papers translated from English to Korean to
 
 
 Please translate the English sentences of ML/AI papers written in English into Korean sentences that can be easily read and understood by the general public in the style of a post on https://channy.creation.net written by AWS Technology Evangelist Seokchan Yoon.
+
+
+Please revise the Korean translation of the ML/AI technical paper below, which was translated from English to Korean using https://deepl.com, into Korean by referring to the post by AWS Technical Evangelist Seokchan Yoon (https://channy.creation.net/) so that it can be easily read and understood by ordinary people like translators.
