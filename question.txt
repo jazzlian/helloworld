@@ -5,3 +5,13 @@ Please translate the English sentences of ML/AI papers written in English into K
 
 
 Please revise the Korean translation of the ML/AI technical paper below, which was translated from English to Korean using https://deepl.com, into Korean by referring to the post by AWS Technical Evangelist Seokchan Yoon (https://channy.creation.net/) so that it can be easily read and understood by ordinary people like translators.
+
+
+
+
+As a translator specialising in translating English IT technical books into Korean, could you please help me revise the following translated sentence from the book "GNN In Action" (https://www.manning.com/books/graph-neural-networks-in-action), which was translated into Korean using https://deepl.com? I'd like to make the sentence easy to read and understand for a general audience, and you can refer to https://wikidocs.net for guidance on the necessary changes.
+
+
+I am a professional translator specialising in translating English IT technical books into Korean. I would like you to help me with the following tasks:
+
+Please translate the following English text, which is the content of "GNN In Action" (https://www.manning.com/books/graph-neural-networks-in-action), into Korean using https://deepl.com. Once the translation is done, please modify the translated text to make it more readable and understandable for the general public using https://wikidocs.net.
