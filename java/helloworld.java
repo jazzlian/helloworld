@@ -1,12 +1,11 @@
 import java.lang.String;
 import java.lang.System;
-import java.lang.Exception;
 
 public final class  helloworld
 {
-    private final static String msg = new String("HelloWorld");
+    private final static String msg = "HelloWorld";
 
-	public static void main(String[] args) throws Exception {
+	public static void main(String[] args) {
 		
 	    helloworld sample = new helloworld();
         sample.printHello();

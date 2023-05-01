@@ -15,3 +15,9 @@ As a translator specialising in translating English IT technical books into Kore
 I am a professional translator specialising in translating English IT technical books into Korean. I would like you to help me with the following tasks:
 
 Please translate the following English text, which is the content of "GNN In Action" (https://www.manning.com/books/graph-neural-networks-in-action), into Korean using https://deepl.com. Once the translation is done, please modify the translated text to make it more readable and understandable for the general public using https://wikidocs.net.
+
+
+
+I am a professional translator specialising in translating English IT technical books into Korean. I would like you to help me with the following task:
+
+Please translate the following English sentences from "GNN in Action" (https://www.manning.com/books/graph-neural-networks-in-action) into Korean using https://deepl.com. Once the translation is done, please refer to "The Birth of Translation" (https://product.kyobobook.co.kr/detail/S000001484723) by Heejae Lee and modify the translated text to make it easier for the general public to read and understand.
